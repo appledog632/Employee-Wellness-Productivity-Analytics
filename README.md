@@ -22,7 +22,6 @@ The dashboard uses multiple public datasets (for academic/demo use only):
 2. [Absenteeism at Work Dataset (UCI)](https://archive.ics.uci.edu/dataset/203/absenteeism+at+work)  
 3. [Health Insurance Claims – Synthetic Data (Kaggle)](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
 4. [Remote Work & Mental Health Survey (Kaggle)](https://www.kaggle.com/datasets/blurredmachine/remote-work-and-mental-health)  
-5. [Microsoft Human Resources Sample (Official)](https://learn.microsoft.com/en-us/power-bi/sample-human-resources) *(optional reference)*  
 
 > ⚠️ Note: Datasets come from different sources and are **logically integrated** (via Date/aggregates), not at individual employee level.
 
